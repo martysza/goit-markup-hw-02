@@ -7,6 +7,71 @@ body{
     font-family:'Roboto', sans-serif ;
 }
 
+.footer .adress {
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+cursor: pointer;
+text-decoration: none;
+}
+
+.footer .brand-link .brand-link-web {
+    color: var(--brand-color, #2196F3)
+}
+.footer .brand-link{
+    font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #000000;
+cursor: pointer;
+text-decoration: none;
+
+}
+
+.name{
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.03em;
+
+color: var(--main-color, #212121);
+}
+
+.name-desctiption{
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.03em;
+color: var(--secondary-color, #757575);
+}
+
+.second-title{
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color:var(--main-color, #212121);
+}
+
+.text{
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.text-heading {
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color:var(--main-color, #212121);
+
+}
 .navbar a{
     text-decoration: none;
 }
