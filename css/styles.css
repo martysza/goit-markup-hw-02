@@ -7,19 +7,42 @@ body{
     font-family:'Roboto', sans-serif ;
 }
 
-.footer .adress {
-font-weight: 400;
+.footer .adress .phone {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    cursor: pointer;
+    text-decoration: none;
+    } 
+
+.footer .adress .mail {
+    font-weight: 400;
 font-size: 14px;
 line-height: 24px;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
 cursor: pointer;
 text-decoration: none;
 }
+
+.footer .adress .adress-details {
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+cursor: pointer;
+text-decoration: none;
+}
+
 
 .footer .brand-link .brand-link-web {
     color: var(--brand-color, #2196F3)
 }
 .footer .brand-link{
-    font-weight: 700;
+font-weight: 700;
 font-size: 26px;
 line-height: 31px;
 color: #000000;
