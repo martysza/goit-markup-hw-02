@@ -7,6 +7,22 @@ body{
     font-family:'Roboto', sans-serif ;
 }
 
+.sub-title {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 0.03em;    
+        color: var(--secondary-color, #757575);
+}
+
+.photo-title{
+font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: var(--main-color, #212121);
+}
+
 .portfolio-button:hover,
 .portfolio-button:focus{
     background-color: var(--brand-color, #2196F3);
