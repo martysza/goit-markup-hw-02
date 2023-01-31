@@ -7,6 +7,25 @@ body{
     font-family:'Roboto', sans-serif ;
 }
 
+.portfolio-button:hover,
+.portfolio-button:focus{
+    background-color: var(--brand-color, #2196F3);
+    color: #FFFFFF;
+}
+
+.portfolio-button {
+    background-color:#F5F4FA;
+    border: none;
+  color: var(--main-color, #212121);
+  padding: 6px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
 .footer .adress .phone {
     font-weight: 400;
     font-size: 14px;
@@ -45,10 +64,15 @@ text-decoration: none;
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
-color: #000000;
+color:#FFFFFF;
 cursor: pointer;
 text-decoration: none;
 
+}
+
+.footer{
+    background-color:#2F303A ;
+    
 }
 
 .name{
