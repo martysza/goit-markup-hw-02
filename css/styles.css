@@ -42,6 +42,11 @@ font-weight: 700;
   cursor: pointer;
 }
 
+.footer .phone:hover,
+.footer .phone:focus {
+    color: var(--brand-color, #2196F3);
+}
+
 .footer .phone {
     font-weight: 400;
     font-size: 14px;
@@ -52,6 +57,10 @@ font-weight: 700;
     text-decoration: none;
     } 
 
+.footer .mail:hover,
+.footer .mail:focus {
+    color: var(--brand-color, #2196F3);
+}
 .footer .mail {
     font-weight: 171%;
 font-size: 14px;
@@ -60,6 +69,11 @@ letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 cursor: pointer;
 text-decoration: none;
+}
+
+.footer .adress-details:hover,
+.footer .adress-details:focus {
+    color: var(--brand-color, #2196F3);
 }
 
 .footer .adress-details {
