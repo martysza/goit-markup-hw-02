@@ -10,7 +10,7 @@ body{
 .sub-title {
     font-weight: 400;
         font-size: 16px;
-        line-height: 30px;
+        line-height: 188%;
         letter-spacing: 0.03em;    
         color: var(--secondary-color, #757575);
 }
@@ -18,7 +18,7 @@ body{
 .photo-title{
 font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 200%;
     letter-spacing: 0.06em;
     color: var(--main-color, #212121);
 }
@@ -42,30 +42,30 @@ font-weight: 700;
   cursor: pointer;
 }
 
-.footer .adress .phone {
+.footer .phone {
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 171%;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
     cursor: pointer;
     text-decoration: none;
     } 
 
-.footer .adress .mail {
-    font-weight: 400;
+.footer .mail {
+    font-weight: 171%;
 font-size: 14px;
-line-height: 24px;
+line-height: 171%;
 letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 cursor: pointer;
 text-decoration: none;
 }
 
-.footer .adress .adress-details {
+.footer .adress-details {
     font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 171%;
 letter-spacing: 0.03em;
 color: #FFFFFF;
 cursor: pointer;
@@ -73,13 +73,13 @@ text-decoration: none;
 }
 
 
-.footer .brand-link .brand-link-web {
+.footer .brand-link-web {
     color: var(--brand-color, #2196F3)
 }
 .footer .brand-link{
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 1.192em;
 color:#FFFFFF;
 cursor: pointer;
 text-decoration: none;
@@ -94,7 +94,7 @@ text-decoration: none;
 .name{
 font-weight: 500;
 font-size: 16px;
-line-height: 19px;
+line-height: 1.188em;
 letter-spacing: 0.03em;
 
 color: var(--main-color, #212121);
@@ -103,7 +103,7 @@ color: var(--main-color, #212121);
 .name-desctiption{
 font-weight: 400;
 font-size: 16px;
-line-height: 19px;
+line-height: 1.188em;
 letter-spacing: 0.03em;
 color: var(--secondary-color, #757575);
 }
@@ -111,7 +111,7 @@ color: var(--secondary-color, #757575);
 .second-title{
 font-weight: 700;
 font-size: 36px;
-line-height: 42px;
+line-height: 1.167em;
 text-align: center;
 letter-spacing: 0.03em;
 
@@ -121,14 +121,14 @@ color:var(--main-color, #212121);
 .text{
 font-weight: 400;
 font-size: 14px;
-line-height: 24px;
+line-height: 171%;
 letter-spacing: 0.03em;
 color: #757575;
 }
 .text-heading {
 font-weight: 700;
 font-size: 14px;
-line-height: 16px;
+line-height: 1.143em;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 
@@ -139,19 +139,19 @@ color:var(--main-color, #212121);
     text-decoration: none;
 }
 
-.navbar .brand-link .brand-link-web {
+.navbar .brand-link-web {
     color: var(--brand-color, #2196F3)
 }
 .navbar .brand-link{
     font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 1.192em;
 color: #000000;
 }
 .navbar .navigation a{
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.143em;
     letter-spacing: 0.02em;
     color: var(--main-color,#212121);
     cursor: pointer;
@@ -163,7 +163,7 @@ color: var(--brand-color, #2196F3);}
 .navbar .contact-link {
         font-weight: 500;
         font-size: 14px;
-        line-height: 16px;
+        line-height: 1.143em;
         letter-spacing: 0.02em;
         cursor: pointer;
         color: var(--secondary-color,#757575)
@@ -176,7 +176,7 @@ color: var(--brand-color, #2196F3)
 .main-text{
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 136%;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
